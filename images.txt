@@ -1,3 +1,1 @@
-alpine
-
-mouday/domain-admin
+apache/doris:1.2.1-fe-x86_64
