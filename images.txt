@@ -1,1 +1,2 @@
-emqx/emqx:5.8.2
+wurstmeister/zookeeper
+wurstmeister/kafka
