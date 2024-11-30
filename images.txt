@@ -1,1 +1,1 @@
-obsidiandynamics/kafdrop
+rabbitmq/rabbitmq-perf-test
