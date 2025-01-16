@@ -1,1 +1,1 @@
-rabbitmq/rabbitmq-perf-test
+hlebalbau/kafka-manager
