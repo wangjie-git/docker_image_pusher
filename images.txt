@@ -1,1 +1,1 @@
-hlebalbau/kafka-manager
+zookeeper:3.5
