@@ -1,1 +1,1 @@
-emqx/emqx
+emqx/emqtt-bench
