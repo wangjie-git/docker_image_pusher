@@ -1,1 +1,1 @@
-emqx/emqtt-bench
+trinodb/trino
