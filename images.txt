@@ -1,1 +1,1 @@
-trinodb/trino
+sonarqube:community
