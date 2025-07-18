@@ -1,1 +1,1 @@
-flink:1.15
+trinodb/trino:latest
