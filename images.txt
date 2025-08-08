@@ -1,2 +1,1 @@
-apache/hive:4.0.0-alpha-2
-trinodb/trino:412
+python:3.9-slim
